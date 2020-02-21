@@ -8,6 +8,10 @@ change:Implemented logout feature
 
 Change:to fix the bug
 
+<<<<<<< HEAD
 Change: bug2
 
 Change:Change made by teammate for payment
+=======
+Change: bug2
+>>>>>>> bug2
