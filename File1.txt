@@ -7,3 +7,5 @@ change:Implemented login feature
 change:Implemented logout feature
 
 Change:to fix the bug
+
+Change: bug2
